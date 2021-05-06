@@ -12,5 +12,7 @@ React Native
 * * expo-font
 * Navigation
 * * npm install @react-navigation/native and it's dependences
+* * Data from API
+* * Deployment
 
 
